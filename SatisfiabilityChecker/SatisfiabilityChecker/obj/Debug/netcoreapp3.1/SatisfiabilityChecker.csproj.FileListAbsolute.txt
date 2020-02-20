@@ -1,0 +1,11 @@
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\bin\Debug\netcoreapp3.1\SatisfiabilityChecker.exe
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\bin\Debug\netcoreapp3.1\SatisfiabilityChecker.deps.json
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\bin\Debug\netcoreapp3.1\SatisfiabilityChecker.runtimeconfig.json
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\bin\Debug\netcoreapp3.1\SatisfiabilityChecker.runtimeconfig.dev.json
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\bin\Debug\netcoreapp3.1\SatisfiabilityChecker.dll
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\bin\Debug\netcoreapp3.1\SatisfiabilityChecker.pdb
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\obj\Debug\netcoreapp3.1\SatisfiabilityChecker.csprojAssemblyReference.cache
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\obj\Debug\netcoreapp3.1\SatisfiabilityChecker.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\obj\Debug\netcoreapp3.1\SatisfiabilityChecker.AssemblyInfo.cs
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\obj\Debug\netcoreapp3.1\SatisfiabilityChecker.dll
+C:\Users\anast\source\repos\SatisfiabilityChecker\SatisfiabilityChecker\obj\Debug\netcoreapp3.1\SatisfiabilityChecker.pdb
